@@ -2,9 +2,9 @@
 <resources>
   <string name="pref_title_notif">Notificación</string>
 
-  <string name="pref_title_notif_persist">Notificación fija</string>
-  <string name="pref_sum_notif_persist_off">La notificación puede ser eliminada</string>
-  <string name="pref_sum_notif_persist_on">La notificación es permanente</string>
+  <string name="pref_title_notif_persist">Icono de notificación</string>
+  <string name="pref_sum_notif_persist_off">Ocultar icono</string>
+  <string name="pref_sum_notif_persist_on">Mostrar icono</string>
 
   <string name="pref_title_notif_hour">Hora de notificación</string>
 
@@ -13,9 +13,9 @@
 
   <string name="pref_title_editor">Editor</string>
 
-  <string name="pref_title_editor_calendar">Vista de calendario</string>
-  <string name="pref_sum_editor_calendar_off">Fecha con ruedecillas</string>
-  <string name="pref_sum_editor_calendar_on">Fecha con vista de calendario</string>
+  <string name="pref_title_editor_calendar">Tipo de vista</string>
+  <string name="pref_sum_editor_calendar_off">Ruedecillas</string>
+  <string name="pref_sum_editor_calendar_on">Calendario</string>
 
   <string name="pref_title_about">Acerca de</string>
 
