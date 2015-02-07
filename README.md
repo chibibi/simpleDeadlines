@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/casimir/simpledeadlines.png?label=ready&title=Ready)](https://waffle.io/casimir/simpledeadlines)
 Simple Deadlines [![Build Status](https://travis-ci.org/casimir/simpleDeadlines.svg?branch=master)](https://travis-ci.org/casimir/simpleDeadlines)
 ===
 
